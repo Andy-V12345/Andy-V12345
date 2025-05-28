@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Andy Vu 👋
 
-<!--
-**Andy-V12345/Andy-V12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Northwestern University (Class of 2026) passionate about building impactful software and learning at scale. With experience across backend systems, full-stack apps, and mobile development, I love turning ideas into tools that people actually use.
 
-Here are some ideas to get you started:
+- 🔭 Currently building [Polo](https://www.polo-app.com), a campus-only marketplace startup
+- 🌱 Exploring scalable systems, developer tools, and AI-powered learning platforms
+- 💡 Favorite tech: TypeScript, React, SwiftUI, Java Spring Boot, and Firebase
+- ✍️ Sometimes I write and share projects on [my website](https://www.andy-vu.com/)
+- 🏀 Outside of code: Formula 1, NBA, tennis, chess, climbing, cooking, and music mixing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### [LeetPatterns.ai](https://www.leetpatternsai.com)  
+A web app that helps users master LeetCode-style patterns using AI-generated problems and explanations  
+**Tech:** React, TypeScript, Firebase, Gemini API  
+[GitHub ↗](https://github.com/Andy-V12345/LeetPatterns)
+
+### [Quick Mental Math App](https://apps.apple.com/us/app/quick-mental-math/id1520620798?platform=iphone)  
+iOS app for students to boost mental math skills, now with 4000+ users  
+**Tech:** SwiftUI, Java Spring Boot, PostgreSQL, Docker, AWS EC2  
+[GitHub ↗](https://github.com/Andy-V12345/QMM)
+
+### [Hire Me Please](https://hire-me-please-beta.vercel.app)  
+Track and visualize software internship applications using real-time web scraping  
+**Tech:** React, Firebase, Python, GCP  
+[GitHub ↗](https://github.com/Andy-V12345/HireMePlease)
+
+---
+
+## 🛠 Tech Stack & Tools
+
+```text
+Languages:    Python, Java, JavaScript, C/C++, Swift, SQL, TypeScript
+Frameworks:   React, SwiftUI, Node.js, Spring Boot
+Tools:        Docker, Firebase, AWS, PostgreSQL, Git, GCP, jUnit, Postman
+```
+
+---
+
+## 📫 Get in Touch
+
+- 📧 andyvu2026@u.northwestern.edu  
+- 🌐 [andy-vu.com](https://www.andy-vu.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/andyvu04)  
+- 💻 [GitHub](https://github.com/Andy-V12345)
