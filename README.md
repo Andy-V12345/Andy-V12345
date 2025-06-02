@@ -2,9 +2,9 @@
 
 I'm a Computer Science student at Northwestern University (Class of 2026) passionate about building impactful software and learning at scale. With experience across backend systems, full-stack apps, and mobile development, I love turning ideas into tools that people actually use.
 
-- 🔭 Currently building [Polo](https://www.polo-app.com), a campus-only marketplace startup
+- 🔭 Currently building [LeetPatterns.ai](https://www.leetpatternsai.com), a better way to prep for coding interviews
 - 🌱 Exploring scalable systems, developer tools, and AI-powered learning platforms
-- 💡 Favorite tech: TypeScript, React, SwiftUI, Java Spring Boot, and Firebase
+- 💡 Favorite tech: TypeScript, React, SwiftUI, Python, Java Spring Boot, and Firebase
 - ✍️ Sometimes I write and share projects on [my website](https://www.andy-vu.com/)
 - 🏀 Outside of code: Formula 1, NBA, tennis, chess, climbing, cooking, and music mixing
 
